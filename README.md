@@ -1,0 +1,1 @@
+# addon.d-OTA-survival-script
