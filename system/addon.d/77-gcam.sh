@@ -1,6 +1,6 @@
 #!/sbin/sh
 # 
-# /system/addon.d/97-gcam.sh
+# /system/addon.d/77-gcam.sh
 #
 
 . /tmp/backuptool.functions
